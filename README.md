@@ -1,12 +1,18 @@
-# ESP32-S3-SuperMini-FIDO2-Case
-A 3D printable case designed specifically for the ESP32-S3 SuperMini development board, which aims to turn it into a portable and durable hardware FIDO2 security key.
+# ESP32-S3-SuperMini FIDO2 Key Case
+This is a 3D-printable case designed for the ESP32-S3 SuperMini development board, intended to transform it into a robust and portable FIDO2 hardware security key.
 
-This design perfectly fits the pico-fido2 project, providing full protection and leaving cutouts for the USB-C port and all necessary button holes. The repository includes the .STL file, ready for direct 3D printing.
+Key Features:
 
+Custom-Fit: Perfectly tailored for the ESP32-S3 SuperMini board and fully compatible with the pico-fido2 project.
+
+Full Protection: The full-enclosure design effectively shields the circuit board from daily bumps and damage.
+
+Precise Cutouts: Features precise openings for the USB-C port and function buttons, ensuring easy access and operation.
+
+Ready to Print: The repository includes an optimized .STL file, ready for immediate 3D printing.
 
 
 
 ## License
 
-This 3D printable case design is licensed under the **CC BY-NC-SA 4.0** license.
-You are free to use, share, and adapt this design, as long as you provide attribution, use it for non-commercial purposes, and share any adaptations under the same license.
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). You are free to share and adapt this work, provided you give appropriate credit, use it for non-commercial purposes, and distribute your contributions under the same license.
