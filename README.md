@@ -14,12 +14,12 @@ Precise Cutouts: Features precise openings for the USB-C port and function butto
 
 Ready to Print: The repository includes an optimized .STL file, ready for immediate 3D printing.
 
-<img width="512" height="512" alt="esp32s3_1" src="https://github.com/user-attachments/assets/dd31ded4-5bdd-48ad-84f3-68f0c1b8d2e1" />
+
+![ESP32-S3SuperMini_2](https://github.com/user-attachments/assets/bfd37928-69ec-4d3f-9f61-fce97417cf4e)
 
 
-![ESP32-S3SuperMini](https://github.com/user-attachments/assets/b2c8d29e-2dc7-4157-8878-7a174650082e)
 
-![ESP32-S3SuperMini_1](https://github.com/user-attachments/assets/96de68be-844a-4a06-ba3f-33f2a62d5b3d)
+![ESP32-S3SuperMini_1](https://github.com/user-attachments/assets/ce3d1394-b295-48cb-8d1e-4b29a6dddeda)
 
 
 Additional Notes:
