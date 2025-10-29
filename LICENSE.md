@@ -8,7 +8,7 @@ This work is licensed under the \*\*Creative Commons Attribution-NonCommercial-S
 
 To view a copy of this license, visit:
 
-\[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
 
@@ -31,4 +31,5 @@ To view a copy of this license, visit:
 \* \*\*NonCommercial (NC)\*\* — You may not use the material for commercial purposes.
 
 \* \*\*ShareAlike (SA)\*\* — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
 
