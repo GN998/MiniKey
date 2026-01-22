@@ -2,7 +2,7 @@
 
 This is a 3D-printable case designed for the ESP32-S3 SuperMini development board, intended to transform it into a robust and portable FIDO2 hardware security key.
 
-This case requires the pico-fido2 firmware, available from the author's open-source repository at: [polhenarejos/pico-fido2](https://github.com/polhenarejos/pico-fido2)
+This case requires the pico-fido firmware, available from the author's open-source repository at: [polhenarejos/pico-fido2](https://github.com/polhenarejos/pico-fido)
 
 Key Features:
 
