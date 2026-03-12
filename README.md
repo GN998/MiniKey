@@ -23,6 +23,9 @@ Ready to Print: The repository includes an optimized .STL file, ready for immedi
 
 <img width="1113" height="886" alt="image" src="https://github.com/user-attachments/assets/5ab9f06f-51e9-4181-aa74-73afbbf67b7e" />
 
+<img width="1065" height="932" alt="image" src="https://github.com/user-attachments/assets/aaeb6a33-23d4-4e5d-9024-207311d06f4e" />
+
+
 
 
 Additional Notes:
